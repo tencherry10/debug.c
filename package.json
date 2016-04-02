@@ -7,7 +7,7 @@
   "dependencies": {
     "strdup": "0.0.0",
     "littlstar/asprintf.c": "0.0.3",
-    "wildcardcmp": "0.0.0"
+    "tencherry10/wildcardcmp": "*"
   },
   "development": {
     "ms": "*"
