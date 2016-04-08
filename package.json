@@ -2,7 +2,7 @@
   "name": "debug",
   "version": "0.0.1",
   "src": ["debug.h", "debug.c"],
-  "repo": "stephenmathieson/debug.c",
+  "repo": "tencherry10/debug.c",
   "license": "mit",
   "dependencies": {
     "strdup": "0.0.0",
